@@ -1,16 +1,5 @@
 # currency_converter_app
 
-A new Flutter project.
+A currency Converter app, where a user can input value in USD and he will its equivalent value in INR
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1722929702](https://github.com/user-attachments/assets/cb9228d6-253e-4f39-ae33-bc348480aabf)
